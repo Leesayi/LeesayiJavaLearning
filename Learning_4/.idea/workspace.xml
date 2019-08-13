@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21e0ebb6-27bd-4ea3-ab7f-1d68618ef010" name="Default Changelist" comment="" />
+    <list default="true" id="424ce9bc-118e-4fa7-8fd3-6ab6b3dc375c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,13 +15,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1PE8PGnPegTnPtFhzh6lP9sLcd0" />
+  <component name="ProjectId" id="1PMM52VSN5HpjlgI5SOuneW9k4T" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,16 +33,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variable" />
-      <module name="Leaning_2" />
+    <configuration name="Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conversion" />
+      <module name="Learning_4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.variable" />
+        <item itemvalue="Application.Conversion" />
       </list>
     </recent_temporary>
   </component>
@@ -54,12 +51,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="21e0ebb6-27bd-4ea3-ab7f-1d68618ef010" name="Default Changelist" comment="" />
-      <created>1565427869550</created>
+      <changelist id="424ce9bc-118e-4fa7-8fd3-6ab6b3dc375c" name="Default Changelist" comment="" />
+      <created>1565679324710</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565427869550</updated>
-      <workItem from="1565427873278" duration="1609000" />
+      <updated>1565679324710</updated>
+      <workItem from="1565679328734" duration="1894000" />
     </task>
     <servers />
   </component>
